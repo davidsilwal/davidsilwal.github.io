@@ -1,0 +1,9 @@
+subject: Experiences
+listing-order: 2
+icon: "/assets/img/briefcase.svg"
+contents:
+  - title: F1Soft International Pvt. Ltd.
+    role: Senior Engineer
+    description:
+      - Led development of a foneremit team.
+    date: May 2023 - Ongoing
