@@ -9,13 +9,13 @@ phone_number: +977-9849861177
 address: Kathmandu, Nepal
 email: de.davidsilwal@gmail.com
 linkedin_username: https://www.linkedin.com/in/davidsilwal
-github_username: https://github.com/davidsilwal/
+github_username: https://github.com/davidsilwal
 twitter_username: https://x.com/davidsilwal
-blog_url: https://davidsilwal.github.io/
+blog_url: https://davidsilwal.github.io
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
-baseurl: https://davidsilwal.github.io/
+baseurl: https://davidsilwal.com.np
 
 exclude:
   - _posts/
