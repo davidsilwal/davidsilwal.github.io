@@ -8,9 +8,9 @@ job: "Software Developer"
 phone_number: +977-9849861177
 address: Kathmandu, Nepal
 email: de.davidsilwal@gmail.com
-linkedin_username: https://www.linkedin.com/in/davidsilwal
-github_username: https://github.com/davidsilwal
-twitter_username: https://x.com/davidsilwal
+linkedin_username: davidsilwal
+github_username: davidsilwal
+twitter_username: davidsilwal
 blog_url: https://davidsilwal.github.io
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
